@@ -1,39 +1,26 @@
-Hey 👋, I'm Muhammed Sahal
-
-I'm a Full Stack Developer with a passion for creating clean, functional, and highly responsive
-web applications. My journey in tech has been hands-on and project-driven, allowing me to gain
-strong technical skills and a deep understanding of the full web development stack. Over the years,
-I’ve developed expertise in Python and Django, which I use to build scalable, backend systems. For
-the front end, I lean on HTML, CSS, JavaScript, and Tailwind CSS, crafting intuitive user interfaces
-with a modern feel and interactive elements. I also have experience with RESTful APIs, AJAX, and
-advanced animations, which I often integrate into my projects to improve user engagement.
-
-🚀 Current Projects
-⌨️ I’m currently developing a comprehensive web app for an interior design company, focused on
-showcasing projects and services in an elegant, responsive layout that brings a modern user experience
-to life. This project combines my skills in Django and Tailwind CSS to create a platform that’s both
-visually appealing and functionally robust.
+<h1 align="center">Hi 👋, I'm Muhammed Sahal</h1>
+<h3 align="center">A Full Stack Developer</h3>
 
 
-📚 In parallel, I’m also working on a personal portfolio website featuring animations, Swiper
-sliders, and typing effects to give it a unique touch.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hammedsahal&label=Profile%20views&color=0e75b6&style=flat" alt="m0hammedsahal" /> </p>
 
-💻 I've designed and built projects like a Blogger app with a fully responsive UI and a
-Food Delivery web app that allows users to seamlessly browse menus, place orders, and track delivery.
+- 👨‍💻 All of my projects are available at [https://m0hammedsahal.github.io/portfolio-website/](https://m0hammedsahal.github.io/portfolio-website/)
 
-🎨 Technical Interests
-I'm always exploring innovative design and animation practices to make user interfaces more engaging.
-Right now, I’m deep-diving into advanced Tailwind animations, which I’ve been implementing on various
-sections of my projects to add subtle interactions that enhance the user experience. I also enjoy tackling
-challenging problems in Django, like efficient data management and creating custom models for complex use cases.
+- 📫 How to reach me **sahald369@gmail.com**
 
-🛠️ Tech Stack
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uH95sd6jvC7iMTtFepwIb2JB4K8VD0Wm](https://drive.google.com/file/d/1uH95sd6jvC7iMTtFepwIb2JB4K8VD0Wm)
 
-Languages: Python, JavaScript, HTML, CSS
-Frameworks & Libraries: Django (for robust backend management), React (for front-end interactivity), Tailwind CSS (for responsive, modern designs)
-Databases: PostgreSQL, SQLite
-Additional Tools: Git (version control), AJAX, JSON
-💬 What I’m Open to Discuss
-I’m always happy to discuss anything related to Python, Django, Tailwind CSS, or web animation techniques.
-Whether it’s exploring solutions to full-stack challenges, optimizing Django models, or making UI components
-come to life, I love connecting with others over shared interests in tech.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sa_a_l_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sa_a_l_k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhd-sahal-5a9b0128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhd-sahal-5a9b0128a" height="30" width="40" /></a>
+<a href="https://fb.com/sa_a_l_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sa_a_l_k" height="30" width="40" /></a>
+<a href="https://instagram.com/sa_a_l_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sa_a_l_k" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0hammedsahal&show_icons=true&locale=en&layout=compact" alt="m0hammedsahal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0hammedsahal&show_icons=true&locale=en" alt="m0hammedsahal" /></p>
