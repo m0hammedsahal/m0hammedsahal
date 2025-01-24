@@ -1,4 +1,3 @@
-   <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="coding" width="95%" height="500px" style="float: left; margin-right: 20px;">
 <h1 align="center">Hi 👋, I'm Muhammed Sahal</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
