@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hammedsahal&label=Profile%20views&color=0e75b6&style=flat" alt="m0hammedsahal" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://m0hammedsahal.github.io/portfolio-website/](https://m0hammedsahal.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://m0hammedsahal.github.io/portfolio-website/](https://m0hammedsahal.github.io/sahal/)
 
 - 📫 How to reach me **sahald369@gmail.com**
 
