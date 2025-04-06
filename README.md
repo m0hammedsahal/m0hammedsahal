@@ -24,5 +24,4 @@
 
 
 
-### 🐍 My Contribution Graph (Snake Game)
 ![Snake animation](https://github.com/m0hammedsahal/m0hammedsahal/blob/output/github-contribution-grid-snake.svg)
